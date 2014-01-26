@@ -1,4 +1,4 @@
-
+vendor/
 /app/config/database.php
 
 
@@ -9,3 +9,4 @@
 ._*
 .Spotlight-V100
 .Trashes
+.idea/
